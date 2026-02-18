@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosbaliano/)
  <a href = "mailto:marcosvbalian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Marcos Github Stats](https://github-readme-stats.vercel.app/api?username=MarcosBaliano&show_icons=true&theme=dracula)
+
 
 ## Tecnologias que eu uso no meu dia
 

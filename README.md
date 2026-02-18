@@ -1,4 +1,3 @@
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcosbaliano/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosbaliano/)
  <a href = "mailto:marcosvbalian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,4 +15,4 @@
 
 </div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação 
+Futuro consultor SAP. No 8º período de Engenharia de Computação, focado em transformar processos corporativos através da tecnologia
